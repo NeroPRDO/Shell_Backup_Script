@@ -62,5 +62,7 @@
 
 Este script foi criado para auxiliar na automação de backups em sistemas Unix, que tenham suporte para a execução do mesmo.
 Muito Obrigado pela atenção e tempo cedido, agradecemos por testar nosso código.
-Ass- Dyego Dasko GRR - 20242244
-     Pedro Eduardo Dall Agnol GRR - 20240844
+
+Ass- 
+Dyego Dasko GRR - 20242244
+Pedro Eduardo Dall Agnol GRR - 20240844
